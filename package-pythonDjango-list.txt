@@ -1,0 +1,10 @@
+atom-beautify@0.32.5
+autoclose-html@0.23.0
+autocomplete-python@1.10.5
+busy-signal@1.4.3
+intentions@1.1.5
+linter@2.2.0
+linter-flake8@2.3.0
+linter-ui-default@1.7.1
+python-tools@0.6.9
+
