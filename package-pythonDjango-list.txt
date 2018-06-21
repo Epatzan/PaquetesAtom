@@ -6,5 +6,6 @@ intentions@1.1.5
 linter@2.2.0
 linter-flake8@2.3.0
 linter-ui-default@1.7.1
+platformio-ide-terminal@2.8.2
 python-tools@0.6.9
 
